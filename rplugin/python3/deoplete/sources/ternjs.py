@@ -310,7 +310,7 @@ class Source(Base):
 
             for rec in data['completions']:
                 item = {
-                    'menu': '[TernJS] ',
+                    'menu': ' ',
                     'dub': 1,
                 }
 
